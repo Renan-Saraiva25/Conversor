@@ -4,7 +4,7 @@ A currency converter with a graphical interface made in Python using Tkinter.
 
 ![conversor](https://github.com/user-attachments/assets/3e63fc6d-313f-400a-be1b-fef5381e7199)
 
-##Features
+## Features
 
 Converts between the following currencies:
 
@@ -22,14 +22,14 @@ Converts between the following currencies:
 
 -Automatically retrieves exchange rates via ExchangeRate API
 
-##Technologies Used
+## Technologies Used
 -Python 3
 
 -Tkinter
 
 -Requests (for API connection)
 
-##How to Use
+## How to Use
 1. Clone the repository:
 
 ```bash
