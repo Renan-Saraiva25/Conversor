@@ -2,7 +2,8 @@
 
 Um conversor de moedas com interface gráfica feito em Python usando `Tkinter`.
 
-![conversor](https://github.com/user-attachments/assets/9fd498f8-ee36-44a2-afeb-0d44ebca4709)
+![conversor](https://github.com/user-attachments/assets/3e63fc6d-313f-400a-be1b-fef5381e7199)
+
 ## Funcionalidades
 
 Converte entre as seguintes moedas:
