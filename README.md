@@ -1,4 +1,4 @@
-# Conversor de moeda
+# Conversor de moedas
 
 Um conversor de moedas com interface gráfica feito em Python usando `Tkinter`.
 
@@ -19,6 +19,9 @@ Converte entre as seguintes moedas:
   - Python 3
   - Tkinter
   - Requests (para conexão com API)
+    
+## API utilizada
+Este projeto utiliza a API de câmbio [ExchangeRate API](https://exchangerate-api.com/) para obter taxas de conversão em tempo real.
 
 ## Como usar
 
