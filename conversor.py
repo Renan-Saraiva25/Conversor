@@ -41,7 +41,7 @@ def converter():
 
 # Configuração da janela principal
 janela = tk.Tk()
-janela.title("💱 Conversor de Moedas")
+janela.title("Conversor de Moedas")
 janela.geometry("450x320")
 janela.configure(bg="#1b5e20")  # verde escuro
 
