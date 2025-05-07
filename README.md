@@ -32,3 +32,13 @@ git clone https://github.com/Renan-Saraiva25/conversor-de-moeda.git
 2. Acesse a pasta do projeto:
 ```bash
 cd conversor-de-moedas
+```
+3. Instalar a dependência:
+```bash
+pip install requests
+```
+4. Executar o projeto:
+```bash
+python conversor.py
+```
+
