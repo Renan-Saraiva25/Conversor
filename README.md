@@ -1,45 +1,52 @@
-# Conversor de moedas
+# Currency Converter
 
-Um conversor de moedas com interface gráfica feito em Python usando `Tkinter`.
+A currency converter with a graphical interface made in Python using Tkinter.
 
 ![conversor](https://github.com/user-attachments/assets/3e63fc6d-313f-400a-be1b-fef5381e7199)
 
-## Funcionalidades
+##Features
 
-Converte entre as seguintes moedas:
-  - Dólar Americano (USD)
-  - Euro (EUR)
-  - Iene Japonês (JPY)
-  - Peso Argentino (ARS)
-  - Real Brasileiro (BRL)
-  - Interface gráfica amigável com `Tkinter`
-  - Obtenção automática das taxas de câmbio via API (ExchangeRate API)
+Converts between the following currencies:
 
-## Tecnologias usadas
+-US Dollar (USD)
 
-  - Python 3
-  - Tkinter
-  - Requests (para conexão com API)
-    
-## API utilizada
-Este projeto utiliza a API de câmbio [ExchangeRate API](https://exchangerate-api.com/) para obter taxas de conversão em tempo real.
+-Euro (EUR)
 
-## Como usar
+-Japanese Yen (JPY)
 
-1. Clone o repositório:
+-Argentine Peso (ARS)
+
+-Brazilian Real (BRL)
+
+-User-friendly graphical interface with Tkinter
+
+-Automatically retrieves exchange rates via ExchangeRate API
+
+##Technologies Used
+-Python 3
+
+-Tkinter
+
+-Requests (for API connection)
+
+##How to Use
+1. Clone the repository:
+
 ```bash
-git clone https://github.com/Renan-Saraiva25/conversor-de-moeda.git
+git clone https://github.com/Renan-Saraiva25/conversor-de-moedas.git
 ```
-2. Acesse a pasta do projeto:
+2. Navigate to the project folder:
+
 ```bash
 cd conversor-de-moedas
 ```
-3. Instalar a dependência:
+3. Install the dependency:
+
 ```bash
 pip install requests
 ```
-4. Executar o projeto:
+4. Run the project:
+
 ```bash
 python conversor.py
 ```
-
